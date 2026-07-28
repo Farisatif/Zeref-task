@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:go_router/go_router.dart",
+    "package:provider/provider.dart",
+    "package:intl/intl.dart",
+    "package:task_flow_app/core/database/database.dart",
+    "package:task_flow_app/core/database/tables.dart",
+    "package:task_flow_app/widgets/app_scaffold.dart",
+    "package:task_flow_app/core/theme/app_colors.dart"
+  ]
+}

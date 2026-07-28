@@ -1,0 +1,11 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/foundation.dart",
+    "package:flutter_local_notifications/flutter_local_notifications.dart",
+    "package:permission_handler/permission_handler.dart",
+    "package:timezone/timezone.dart",
+    "package:timezone/data/latest_all.dart",
+    "package:task_flow_app/core/services/notification_prefs.dart"
+  ]
+}

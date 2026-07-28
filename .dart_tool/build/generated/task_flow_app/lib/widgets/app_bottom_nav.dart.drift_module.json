@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:go_router/go_router.dart",
+    "package:task_flow_app/core/theme/app_colors.dart"
+  ]
+}

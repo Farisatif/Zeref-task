@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:provider/provider.dart",
+    "package:task_flow_app/core/database/database.dart",
+    "package:task_flow_app/core/database/seed_data.dart"
+  ]
+}

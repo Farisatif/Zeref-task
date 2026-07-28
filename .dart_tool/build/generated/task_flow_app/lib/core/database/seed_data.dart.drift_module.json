@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:task_flow_app/core/database/database.dart",
+    "package:task_flow_app/core/database/tables.dart"
+  ]
+}

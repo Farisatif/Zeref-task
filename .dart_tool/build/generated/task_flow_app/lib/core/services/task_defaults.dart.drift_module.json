@@ -1,0 +1,6 @@
+{
+  "elements": {},
+  "imports": [
+    "package:task_flow_app/core/database/tables.dart"
+  ]
+}

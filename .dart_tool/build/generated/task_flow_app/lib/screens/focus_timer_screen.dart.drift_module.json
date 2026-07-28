@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:percent_indicator/percent_indicator.dart",
+    "package:task_flow_app/widgets/app_scaffold.dart",
+    "package:task_flow_app/core/theme/app_colors.dart"
+  ]
+}

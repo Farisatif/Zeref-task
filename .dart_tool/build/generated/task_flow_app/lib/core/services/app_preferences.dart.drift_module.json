@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:task_flow_app/core/database/database.dart",
+    "package:task_flow_app/core/services/notification_prefs.dart",
+    "package:task_flow_app/core/services/task_defaults.dart",
+    "package:task_flow_app/core/services/notification_service.dart"
+  ]
+}
